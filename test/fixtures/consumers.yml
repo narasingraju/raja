@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cn_email: MyString
+  cnf_name: MyString
+  cnl_name: MyString
+
+two:
+  cn_email: MyString
+  cnf_name: MyString
+  cnl_name: MyString
